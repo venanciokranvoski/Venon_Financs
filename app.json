@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Ve_Financs",
+    "slug": "Ve_Financs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
